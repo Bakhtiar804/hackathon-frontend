@@ -8,6 +8,10 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+test-results
+isolated-test-results
+audit-test-results
+playwright-report
 dist
 dist-ssr
 *.local
